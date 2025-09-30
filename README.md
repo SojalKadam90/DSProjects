@@ -1,2 +1,2 @@
 # DSProjects
-In this repository you will find my all Ds projects
+In this repository you will find all my Ds projects.
